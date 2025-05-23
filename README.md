@@ -128,7 +128,7 @@ Alignment in LLMs involves guiding model outputs to conform to human expectation
 - Continuous control with deep reinforcement learning [Paper](https://arxiv.org/abs/1509.02971) ![arXiv](https://img.shields.io/badge/arXiv-2015-red)  
 - Policy shaping: Integrating human feedback with reinforcement learning [Paper](https://proceedings.neurips.cc/paper/2013/file/518c3069f3228293c9d3c6d67793c931-Paper.pdf) ![NeurIPS](https://img.shields.io/badge/NeurIPS-2013-blue)  
 - A reduction of imitation learning and structured prediction to no-regret online learning [Paper](https://dl.acm.org/doi/10.5555/3042573.3042769) ![AISTATS](https://img.shields.io/badge/AISTATS-2011-blue)  
-- Interactively shaping agents via human reinforcement: The TAMER framework [Paper](https://dl.acm.org/doi/10.1145/1569901.1569983) ![KCAP](https://img.shields.io/badge/K-CAP-2009-blue)  
+- Interactively shaping agents via human reinforcement: The TAMER framework [Paper](https://dl.acm.org/doi/10.1145/1569901.1569983) ![arXiv](https://img.shields.io/badge/arXiv-2009-red)  
 - Rational and Convergent Learning in Stochastic Games [Paper](https://dl.acm.org/doi/10.5555/645530.655722) ![IJCAI](https://img.shields.io/badge/IJCAI-2001-blue)  
 - Algorithms for inverse reinforcement learning [Paper](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) ![ICML](https://img.shields.io/badge/ICML-2000-blue)  
 
