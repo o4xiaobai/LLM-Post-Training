@@ -174,7 +174,7 @@ Alignment in LLMs involves guiding model outputs to conform to human expectation
 ## 🚀 PoLMs for Reasoning
 Reasoning constitutes a central pillar for enabling LLMs to tackle tasks involving multi-step logic, intricate inference, and complex decision-making. This chapter examines two core techniques for enhancing model reasoning capabilities: Self-Refine for Reasoning, which guides the model to autonomously detect and remedy errors in its own reasoning steps; and Reinforcement Learning for Reasoning, which employs reward-based optimization to improve the consistency and depth of the model’s chain-of-thought. These approaches collectively enable more robust handling of long-horizon decision-making, logical proofs, mathematical reasoning, and other challenging tasks.
 ### Self-Refine for Reasoning
-* Accessing GPT-4 level mathematical olympiad solutions via Monte Carlo Tree Self-Refine with Llama-3 8B [[Paper]](https://arxiv.org/abs/2406.07394) [arXiv](https://img.shields.io/badge/arXiv-2024-red)  
+* Accessing GPT-4 level mathematical olympiad solutions via Monte Carlo Tree Self-Refine with Llama-3 8B [[Paper]](https://arxiv.org/abs/2406.07394) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)  
 * DeepseekMath: Pushing the limits of mathematical reasoning in open language models [[Paper]](https://arxiv.org/abs/2402.03300) [arXiv](https://img.shields.io/badge/arXiv-2024-red)  
 * Language models can solve computer tasks [[Paper]](https://arxiv.org/abs/2412.00001) [NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)  
 * Cycle: Learning to self-refine the code generation [[Paper]](https://dl.acm.org/doi/10.1145/3583133.3590000) [OOPSLA](https://img.shields.io/badge/OOPSLA-2024-red)  
