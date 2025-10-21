@@ -19,7 +19,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 <p align="center">
-  <img src="https://github.com/Mr-Tieguigui/LLM-Post-Training/blob/main/fig/Fig-intro.png" width="80%" hieght="50%" />
+  <img src="fig/Fig-intro.png" width="80%" hieght="50%" />
 <!--   <img src="./Images/methods.jpg" width="80%" height="50%" /> -->
 </p>
 
@@ -28,7 +28,7 @@ Structural overview of post-training techniques surveyed in this study, illustra
 ---
 
 <p align="center">
-  <img src="https://github.com/Mr-Tieguigui/LLM-Post-Training/blob/main/fig/history.png" width="80%" hieght="50%" />
+  <img src="fig/history.png" width="80%" hieght="50%" />
 <!--   <img src="./Images/methods.jpg" width="80%" height="50%" /> -->
 </p>
 
